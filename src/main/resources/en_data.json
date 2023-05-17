@@ -1,0 +1,65 @@
+[
+  {
+    "CountryName": "KSA",
+    "CountryCode": "sa",
+    "Plans": [
+      {
+        "Name": "LITE",
+        "Price": 15.0,
+        "Currency": "SAR"
+      },
+      {
+        "Name": "CLASSIC",
+        "Price": 25.0,
+        "Currency": "SAR"
+      },
+      {
+        "Name": "PREMIUM",
+        "Price": 60.0,
+        "Currency": "SAR"
+      }
+    ]
+  },
+  {
+    "CountryName": "Bahrain",
+    "CountryCode": "bh",
+    "Plans": [
+      {
+        "Name": "LITE",
+        "Price": 2.0,
+        "Currency": "BHD"
+      },
+      {
+        "Name": "CLASSIC",
+        "Price": 3.0,
+        "Currency": "BHD"
+      },
+      {
+        "Name": "PREMIUM",
+        "Price": 6.0,
+        "Currency": "BHD"
+      }
+    ]
+  },
+  {
+    "CountryName": "Kuwait",
+    "CountryCode": "kw",
+    "Plans": [
+      {
+        "Name": "LITE",
+        "Price": 1.2,
+        "Currency": "KWD"
+      },
+      {
+        "Name": "CLASSIC",
+        "Price": 2.5,
+        "Currency": "KWD"
+      },
+      {
+        "Name": "PREMIUM",
+        "Price": 4.8,
+        "Currency": "KWD"
+      }
+    ]
+  }
+]

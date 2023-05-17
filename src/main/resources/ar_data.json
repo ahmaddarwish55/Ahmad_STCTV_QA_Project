@@ -1,0 +1,31 @@
+[
+  {
+    "CountryName":"السعودية",
+    "CountryCode":"sa",
+    "Plans":[
+      {"Name":"لايت","Price":15,"Currency":"ريال سعودي"},
+      {"Name":"الأساسية","Price":25,"Currency":"ريال سعودي"},
+      {"Name":"بريميوم","Price":60,"Currency":"ريال سعودي"}
+    ]
+  },
+  {
+    "CountryName":"البحرين",
+    "CountryCode":"bh",
+    "Plans":
+    [
+      {"Name":"لايت","Price":2,"Currency":"دينار بحريني"},
+      {"Name":"الأساسية","Price":3,"Currency":"دينار بحريني"},
+      {"Name":"بريميوم","Price":6,"Currency":"دينار بحريني"}
+    ]
+  },
+  {
+    "CountryName":"الكويت",
+    "CountryCode":"kw",
+    "Plans":
+    [
+      {"Name":"لايت","Price":1.2,"Currency":"دينار كويتي"},
+      {"Name":"الأساسية","Price":2.5,"Currency":"دينار كويتي"},
+      {"Name":"بريميوم","Price":4.8,"Currency":"دينار كويتي"}
+    ]
+  }
+]
